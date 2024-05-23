@@ -2,7 +2,9 @@
 *Meu nome é Luiz Carlos  
 *Estou utilizando o programa do Alura nas aulas de robótica no ensino médio 
 *No momento estou como iniciante na linguage de programação JavaScript
-![](https://tenor.com/jlJaMMKQ7wG.gif) 
 
 Para entrar em contato comigo⬇️
 00001100117775sp@al.educacao.sp.gov.br 
+
+![](https://tenor.com/jlJaMMKQ7wG.gif)
+ 
